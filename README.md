@@ -1,4 +1,4 @@
-# **Final-Project-Data-Visualization-Wrangling-Car-Sales**
+# **Final Project Data Visualization Wrangling - Car Sales**
 
 
 ## **Background of Problem**

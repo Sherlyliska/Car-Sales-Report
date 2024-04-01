@@ -25,7 +25,7 @@ Berdasarkan tujuan dan latar belakang masalah di atas, beberapa goals yang mungk
 3. Meningkatkan penjualan mobil sebesar 30% pada tahun 2024 mendatang.
 
 
-## **Kesimpulan**
+## **Conclusion**
 
 Berdasarkan analisis data penjualan mobil dari tahun 2022 hingga 2023, terdapat sejumlah temuan yang memberikan wawasan penting tentang kinerja penjualan perusahaan:
 1. Pertumbuhan Signifikan: Terjadi peningkatan yang signifikan dalam total penjualan dan jumlah 2. mobil terjual. Ini menunjukkan keberhasilan strategi perusahaan dalam meningkatkan penjualan secara keseluruhan.
@@ -38,7 +38,7 @@ Preferensi Konsumen: Data mengenai preferensi warna mobil dan jenis bodi mobil m
 8. Tren Penjualan Perusahaan: Perusahaan mobil seperti Chevrolet mendominasi pasar dengan penjualan tertinggi. Memahami tren ini membantu perusahaan mengambil langkah-langkah strategis untuk memanfaatkan momentum penjualan, mencapai pertumbuhan yang diinginkan, dan memperkuat posisi mereka dalam pasar otomotif.
 
 
-## **Rekomendasi**
+## **Recommendation**
 Dengan memperhatikan temuan ini, perusahaan dapat mengarahkan upaya mereka untuk meningkatkan kinerja penjualan, mengidentifikasi peluang pertumbuhan baru, dan meningkatkan kepuasan pelanggan. Berikut adalah rekomendasi bisnisnya berdasarkan data sebelumnya:
 1. Pertumbuhan Signifikan dalam Total Penjualan dan Mobil Terjual:
 Dengan pertumbuhan total penjualan sebesar 25,36% dari tahun 2022 ke 2023, perusahaan sebaiknya fokus pada pengoptimalan strategi pemasaran yang telah berhasil. Misalnya, menurunkan harga untuk meningkatkan volume penjualan kepada pelanggan.
